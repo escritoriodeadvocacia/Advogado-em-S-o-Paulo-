@@ -1,27 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://advogado-em-sao-paulo.netlify.app/</loc>
-  <lastmod>2025-04-07T10:17:50+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://advogado-em-sao-paulo.netlify.app/</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://advogado-em-sao-paulo.netlify.app/sobre-nos</loc>
-  <lastmod>2025-04-07T10:17:50+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://advogado-em-sao-paulo.netlify.app/sobre-nos</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://advogado-em-sao-paulo.netlify.app/contato</loc>
-  <lastmod>2025-04-07T10:17:50+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://advogado-em-sao-paulo.netlify.app/contato</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/contratar-advogado-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/beneficios-de-advogado-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/atendimento-online</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/consulta-juridica-advogado-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/defesa-de-seus-direitos</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/conte-sempre-com-advogado-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/areas-de-atuacao-advogado-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-trabalhista-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-civel-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/direito-de-familia</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-previdenciario-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-aposentadoria-em-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-do-trabalho-sao-paulo</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-em-sao-paulo-perto-de-mim</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://advogado-em-sao-paulo.netlify.app/advogado-sp-autoridade</loc>
+<lastmod>2025-04-21T13:15:53+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>
